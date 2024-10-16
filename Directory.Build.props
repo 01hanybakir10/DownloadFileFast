@@ -1,0 +1,11 @@
+<Project>
+	<PropertyGroup>
+		<Version>0.2.0</Version>
+		<Nullable>enable</Nullable>
+		<LangVersion>10.0</LangVersion>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/StefH/Blazor.DownloadFileFast</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/StefH/Blazor.DownloadFileFast</RepositoryUrl>
+	</PropertyGroup>
+</Project>
